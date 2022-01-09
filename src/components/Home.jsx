@@ -102,7 +102,7 @@ where my brother teaches coding concepts, and gives updates about tech world, et
                       <li class="btn btn-secondary" style={{ display: "inline", marginRight:"20px" }}>
                       <a  href="https://www.linkedin.com/in/balasubramaniyan-t-340167210/"
                   target="_blank" style={{ all: "unset" }}
-                  rel="noreferrer" > Linkedin  </a>
+                  rel="noreferrer" > Linkedin.  </a>
                       </li>
                       <li class="btn btn-secondary" style={{ display: "inline"}}>
                         
